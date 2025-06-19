@@ -4,6 +4,7 @@ import './style.css'
 /* import './topics/03-functions'; */
 /* import './topics/04-homework-types'; */
 /* import './topics/051-basic-destructuring'; */
+//import './topics/05-basic-destructuring';
 //import './topics/06-function-destructuring';
 //import './topics/07-import-export'
 //import './topics/08-classes'
